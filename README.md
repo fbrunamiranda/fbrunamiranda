@@ -2,7 +2,7 @@
 
 - 📚 Estudante de Análise e desenvolvimento de Sistemas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbrunamiranda&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbrunamiranda&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbrunamiranda&hide_progress=true)
 
 ## Tecnologias que estou estudando
