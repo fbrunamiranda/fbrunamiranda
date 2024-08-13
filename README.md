@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Bruna 👋
 
-- 📚 Estudante de Análise e desenvolvimento de Sistemas
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbrunamiranda&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbrunamiranda&hide_progress=true)
