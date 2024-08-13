@@ -1,4 +1,4 @@
-## Olá! eu sou a Bruna 👋
+## Olá! Eu sou a Bruna 👋
 
 - 📚 Estudante de Análise e desenvolvimento de Sistemas
 
